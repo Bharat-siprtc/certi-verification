@@ -1,0 +1,15 @@
+
+{
+  "certificates": [
+      {
+          "id": "12345",
+          "recipientName": "cybercom",
+          "certificateImage": "certificates/cybercom.jpg"
+      },
+      {
+          "id": "67890",
+          "recipientName": "Jane Smith",
+          "certificateImage": "certificates/Certificate.png"
+      }
+  ]
+}
